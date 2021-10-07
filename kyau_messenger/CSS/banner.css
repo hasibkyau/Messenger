@@ -1,0 +1,15 @@
+.middle{
+    position: relative;
+    display: flex;
+    border: 2px solid red;
+}
+.hide{
+    height: 17vh;
+}
+
+.middle div{
+    width: 50%;
+    text-align: center;
+    text-align:start;
+}
+
